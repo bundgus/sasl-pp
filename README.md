@@ -1,5 +1,5 @@
 # sasl-pp
-Pure Python (Python 3) SASL PLAIN Implementation for Impyla and Apache Hive Server 2 Based on the python-sasl API
+Pure Python (Python 3) SASL PLAIN Implementation for Impyla and Apache HiveServer2 Based on the python-sasl API
 
 This pure Python implementation of SASL for Impyla uses the python-sasl API from toddlipcon combined with the pure-sasl implementation from thobbs.
 
